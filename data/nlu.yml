@@ -16,8 +16,7 @@ nlu:
     - goodmorning
     - goodevening
     - good afternoon
-    - bitch
-    - dog
+    - 방가방가
 
 - intent: goodbye
   examples: |
@@ -32,6 +31,7 @@ nlu:
     - see you around
     - bye bye
     - see you later
+    - 굿바이
 
 - intent: affirm
   examples: |
