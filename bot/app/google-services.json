@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "856620854930",
+    "project_id": "workout-fd1b1",
+    "storage_bucket": "workout-fd1b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856620854930:android:8c098cba51e26d36f1c04b",
+        "android_client_info": {
+          "package_name": "com.example.moodbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856620854930-kkl3r678lqrmu1s10js0rgt5t1778br9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moodbot",
+            "certificate_hash": "86aa800733de568a83c3a49ea5cdda8a1a9e4cc5"
+          }
+        },
+        {
+          "client_id": "856620854930-54gqboqq2khd7oc9ffrmevfnnpo4sbf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARa7Ym3rXQNvSR4UzWNNs-Z4NdSWGoU_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856620854930-54gqboqq2khd7oc9ffrmevfnnpo4sbf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
